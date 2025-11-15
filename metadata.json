@@ -1,0 +1,7 @@
+{
+  "name": "QDV ",
+  "description": "A speech-training assistant for Vietnamese children (ages 5–12) with delayed speech. The app uses a friendly AI avatar that speaks Vietnamese and interacts naturally with the child to practice vocabulary in a conversational setting.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
